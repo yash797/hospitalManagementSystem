@@ -1,14 +1,14 @@
+#!groovy
 pipeline{
-    agent any{
-        tools{
-            maven 'maven'
-        }
-        stages{
-            stage("build"){
-                steps{
-                bat"mvn -f clean install -DskipTests"
-                }
-            }
-        }
-    }
-}
+ agent any
+  tools {
+    maven 'maven'
+  }
+ stages{
+   stage("build"){
+       steps{
+          bat "mvn -f clean install -DskipTests"
+          }
+      }
+  }
+ }
