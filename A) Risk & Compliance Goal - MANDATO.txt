@@ -1,0 +1,39 @@
+A) Risk & Compliance Goal - MANDATORY
+On Track
+
+In alignment with HSBC’s commitment to risk and compliance, I have ensured that all my work adheres to regulatory and company guidelines. I consistently prioritize the impact of my decisions, keeping customer outcomes and regulatory standards at the forefront. I’ve completed all required training modules promptly and maintain vigilance in identifying potential risks, promptly escalating them whenever necessary. I approach each task with a strong sense of responsibility and ethical judgment, ensuring my actions align with HSBC’s values.
+
+B) Delivery Quality
+On Track
+
+To maintain a high standard of delivery quality, I actively participate in team processes to track and minimize defects, achieving less than two defect leaks per month. I utilize tools such as JIRA to ensure all defects are properly documented with "Defect introduced by" and "Root Cause" attributes. By paying close attention to code quality and performing thorough checks, I contribute to a smooth transition between development phases, helping our team maintain HSBC’s commitment to excellence.
+
+C) Operations Part of DevOps
+Standby
+
+While I haven’t had the chance to actively participate in service management initiatives, I remain fully prepared and on standby to engage in production support tasks as needed. I am committed to promptly stepping in when the opportunity arises, aligning with HSBC’s value of collaboration and readiness.
+
+D) Exhaustive Automation Test Suites
+On Track
+
+I have been actively engaged in performance testing to ensure our APIs meet the required standards for speed, reliability, and scalability. My performance testing process includes creating and executing smoke, capacity, and soak tests, allowing us to monitor API response times and system behavior under varying loads. These tests contribute significantly to maintaining high delivery quality, aligning with HSBC’s standards. I am also prepared to integrate more automated functional tests as my work evolves, further supporting our commitment to robust, reliable code.
+
+E) Completion of Deliverables as Planned in PI Planning
+On Track
+
+I consistently work to deliver on my planned objectives, with an 85% on-time delivery rate for PI-planned commitments. I make sure that each deliverable meets the agreed-upon Definition of Done (DoD) before completion, maintaining both quality and timeliness. This reflects my dedication to keeping commitments and contributing to the team’s productivity and reliability.
+
+F) Timely Completion of Timesheets and Trainings
+On Track
+
+I have demonstrated full compliance in submitting my weekly timesheets on time each Friday and in completing all mandatory training modules as scheduled. By ensuring timely completion, I support HSBC’s operational standards and contribute to a disciplined and accountable work culture.
+
+G) Functional/Domain Understanding
+On Track
+
+To build a strong understanding of our project’s domain and business impact, I take the initiative to thoroughly review project documentation and training resources. This helps me gain a deeper insight into how our APIs contribute to HSBC’s overall business objectives. By continuously exploring and learning about the project's functional aspects, I am enhancing my domain knowledge, which enables me to better support the team and align my work with HSBC’s strategic goals.
+
+H) Participation at Organization/Department-Level Events
+On Track
+
+I actively participated in HSBC’s CSR initiative, taking part in a tree-planting event at the BAIF Institute for Sustainable Livelihoods and Development. This experience aligned with HSBC’s commitment to community involvement and sustainability, and it was an enriching way to connect with the larger mission of the organization.
